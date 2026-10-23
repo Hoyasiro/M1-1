@@ -1,0 +1,8 @@
+# 개인정보: 원본 데이터(실제 날짜 포함)와 생년월일 파일은 업로드 금지
+data/child_growth_raw.xlsx
+birthdate.txt
+
+# 가상환경 / 자동 생성 파일
+venv/
+.ipynb_checkpoints/
+__pycache__/
